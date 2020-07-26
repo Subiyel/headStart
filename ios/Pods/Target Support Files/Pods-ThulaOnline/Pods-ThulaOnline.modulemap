@@ -1,0 +1,6 @@
+module Pods_ThulaOnline {
+  umbrella header "Pods-ThulaOnline-umbrella.h"
+
+  export *
+  module * { export * }
+}
