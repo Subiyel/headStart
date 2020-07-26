@@ -3,7 +3,7 @@ React Native Head Start - AUG 2020
 ===========================================
 
 [![React Native](https://img.shields.io/badge/React%20Native-v0.60.5-blue.svg)](https://reactnative.dev/)
-[![React Navigation V3](https://img.shields.io/badge/React%20Navigation-v3.11-blue.svg)](https://reactnavigation.org/)
+[![React Navigation V3](https://img.shields.io/badge/React%20Navigation-v5-blue.svg)](https://reactnavigation.org/)
 
 
 This README would normally document whatever steps are necessary to get your application up and running.
